@@ -3,6 +3,7 @@ title: Deep Learning
 subtitle: Khatam University, Fall 1399
 layout: page
 show_sidebar: false
+content_width: is-9
 ---
 
 # About This Course
